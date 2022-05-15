@@ -1,0 +1,14 @@
+.size{
+    font-size: 0.9rem;
+    
+}
+.mx-6{
+    margin-right: 6rem;
+    margin-left: 6rem;
+}
+.pl-6{
+    padding-left: 6rem;
+}
+body{
+    padding-top: 72px;
+}
